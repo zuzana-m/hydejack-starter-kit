@@ -20,7 +20,11 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
+<<<<<<< Updated upstream
 title:                 Hydejack
+=======
+title:                 Zuzana Mihályiová
+>>>>>>> Stashed changes
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -29,7 +33,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               QA Automation Engineer
 
 # A list of keywords for your blog
 keywords:              []
@@ -42,17 +46,17 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <Zuzana> <Mihályiová>
+  email:               <z.mihalyiova@gmail.com>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
+  - title:             Blog
+    url:               /blog/
+  - title:             Resumé
+    url:               /resume/
   - title:             About
     url:               /about/
 
@@ -105,8 +109,8 @@ remote_theme: hydecorp/hydejack@v9
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
-accent_color:          rgb(79,177,186)
+accent_image:          /assets/img/DJI_0989-out.jpg
+accent_color:          rgb(59, 168, 68)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
