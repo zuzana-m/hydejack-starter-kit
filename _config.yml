@@ -97,7 +97,7 @@ remote_theme: hydecorp/hydejack@v9
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/background.jpg
+accent_image:          /assets/img/background.webp
 accent_color:          rgb(59, 168, 68)
 
 # This is used for the `theme-color` meta tag,
